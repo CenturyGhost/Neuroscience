@@ -1,4 +1,4 @@
-#!/home/skander/Documents/Photos/Neuroscience-1/venv/bin/python3
+#!/home/skander/Documents/Photos/Neuroscience/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
